@@ -14,5 +14,8 @@
   "dependencies": {
     "angular-material": "~0.10.1",
     "angular": "~1.4.4"
-  }
+  },
+  "authors": [
+    "abraillard"
+  ]
 }
