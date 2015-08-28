@@ -1,0 +1,18 @@
+{
+  "name": "judo",
+  "main": "index.js",
+  "version": "0.0.0",
+  "homepage": "https://github.com/staive01/judo",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-material": "~0.10.1",
+    "angular": "~1.4.4"
+  }
+}

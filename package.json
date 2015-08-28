@@ -1,0 +1,27 @@
+{
+  "name": "judo",
+  "version": "1.0.0",
+  "description": "Judo via Node/Angular",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/staive01/judo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/staive01/judo/issues"
+  },
+  "homepage": "https://github.com/staive01/judo#readme",
+  "dependencies": {
+    "bower": "^1.5.2",
+    "handlebars": "^3.0.3",
+    "hapi": "^9.0.3",
+    "hoek": "^2.14.0",
+    "vision": "^3.0.0",
+    "xml2json": "^0.8.2"
+  }
+}
